@@ -32,6 +32,5 @@ public class LearnString {
 
         String randomString = "some text";
         System.out.println(randomString.toUpperCase());
-
     }
 }
